@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+/Part 8 - Deep Learning/Section 40 - Convolutional Neural Networks (CNN)/instructor/dataset/
+
 # Distribution / packaging
 .Python
 env/
